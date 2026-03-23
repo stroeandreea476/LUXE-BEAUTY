@@ -83,3 +83,10 @@ footer {
     border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
 }
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
