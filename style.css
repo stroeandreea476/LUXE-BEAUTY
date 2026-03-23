@@ -28,10 +28,19 @@ nav a {
 }
 
 .container{
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
    
+}
+
+.container figure{
+    width: 1000px;
+}
+
+.container figure img{
+    width: 100%;
 }
 
 /* HERO */
