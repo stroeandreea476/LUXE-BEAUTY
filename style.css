@@ -27,6 +27,13 @@ nav a {
     font-weight: bold;
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
 /* HERO */
 #hero img {
     width: 100%;
@@ -84,9 +91,3 @@ footer {
     padding-bottom: 10px;
 }
 
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-}
